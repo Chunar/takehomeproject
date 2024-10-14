@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "id": "1",
+            "name": "Dr. Alicia",
+            "services": [
+                "1",
+                "2"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Dr. Rebecca",
+            "services": [
+                "1"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Dr. Ashley",
+            "services": [
+                "1"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Dr. Mary",
+            "services": [
+                "2"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Dr. Lynda",
+            "services": [
+                "3"
+            ]
+        }
+    ]
+}

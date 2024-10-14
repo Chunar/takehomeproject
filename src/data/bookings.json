@@ -1,0 +1,11 @@
+{
+    "bookings": [
+        {
+            "provider": "1",
+            "client": "1",
+            "services": "1",
+            "start_time": "10/14/2024, 5:00:00 PM",
+            "end_time": "10/14/2024, 6:00:00 PM"
+        }
+    ]
+}
